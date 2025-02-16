@@ -82,7 +82,7 @@ public final class UrlBuilder {
 
     /**
      * Joins streams from an ArrayList into a String representation.
-     * @param params The ArrayList containing the streams.
+     * @param streams The ArrayList containing the streams.
      * @return The String representation of the joined streams.
     */
     public static String joinStreamUrls(ArrayList<String> streams) {
@@ -92,7 +92,7 @@ public final class UrlBuilder {
     /**
      * Joins streams from an ArrayList into a StringBuilder representation.
      * @param sb The StringBuilder to append the streams to.
-     * @param params The ArrayList containing the streams.
+     * @param streams The ArrayList containing the streams.
      * @return The StringBuilder representation of the joined streams.
     */
     public static StringBuilder joinStreamUrls(StringBuilder sb, ArrayList<String> streams) {
