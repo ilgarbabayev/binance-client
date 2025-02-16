@@ -1,7 +1,7 @@
 # Binance Public API connector Java
-[![maven](https://img.shields.io/maven-central/v/io.github.binance/binance-connector-java)](https://repo1.maven.org/maven2/io/github/binance/binance-connector-java/)
+[![maven](https://img.shields.io/maven-central/v/io.github.ilgarbabayev/binance-client)](https://repo1.maven.org/maven2/io/github/ilgarbabayev/binance-client/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Code Style](https://img.shields.io/badge/code%20style-checkstyle-yellow)](https://checkstyle.org/checks.html)
+
 
 This is a lightweight library that works as a connector to the [Binance public API](https://github.com/binance/binance-spot-api-docs).
 
@@ -22,8 +22,8 @@ Additionally, it includes test cases and examples.
 Copy and paste the following dependency snippet into your `pom.xml` file, replacing `LATEST_VERSION` with the most [recent version](https://mvnrepository.com/artifact/io.github.binance/binance-connector-java) available:
 ```
 <dependency>
-    <groupId>io.github.binance</groupId>
-    <artifactId>binance-connector-java</artifactId>
+    <groupId>io.github.ilgarbabayev</groupId>
+    <artifactId>binance-client</artifactId>
     <version>LATEST_VERSION</version>
 </dependency>
 ```
