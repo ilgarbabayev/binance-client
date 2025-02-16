@@ -38,7 +38,7 @@
     <scm>
         <connection>scm:git:git://github.com/ilgarbabayev/binance-client.git</connection>
         <developerConnection>scm:git:git://github.com/ilgarbabayev/binance-client.git</developerConnection>
-        <url>https://github.com/ilgarbabayev/binance-client.git</url>
+        <url>https://github.com/ilgarbabayev/binance-client</url>
         <tag>binance-client-0.0.1</tag>
     </scm>
 
