@@ -4,7 +4,7 @@
 
     <groupId>io.github.ilgarbabayev</groupId>
     <artifactId>binance-client</artifactId>
-    <version>0.0.22</version>
+    <version>0.0.23-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>lightweight connector to API</description>
@@ -41,7 +41,7 @@
         <connection>scm:git:https://github.com/ilgarbabayev/binance-client.git</connection>
         <developerConnection>scm:git:https://github.com/ilgarbabayev/binance-client.git</developerConnection>
         <url>https://github.com/ilgarbabayev/binance-client</url>
-        <tag>binance-client-0.0.22</tag>
+        <tag>binance-client-0.0.1</tag>
     </scm>
 
     <properties>
