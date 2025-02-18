@@ -4,7 +4,7 @@
 
     <groupId>io.github.ilgarbabayev</groupId>
     <artifactId>binance-client</artifactId>
-    <version>0.0.29</version>
+    <version>0.0.30-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>lightweight connector to API</description>
