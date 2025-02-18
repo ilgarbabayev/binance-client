@@ -81,9 +81,9 @@
         </dependency>
     </dependencies>
 
-    <profiles>
-        <profile>
-            <id>release</id>
+<!--    <profiles>-->
+<!--        <profile>-->
+<!--            <id>release</id>-->
             <build>
                 <plugins>
                     <plugin>
@@ -149,11 +149,11 @@
                         <configuration>
                             <autoVersionSubmodules>true</autoVersionSubmodules>
                             <useReleaseProfile>false</useReleaseProfile>
-                            <releaseProfiles>release</releaseProfiles>
+<!--                            <releaseProfiles>release</releaseProfiles>-->
                         </configuration>
                     </plugin>
                 </plugins>
             </build>
-        </profile>
-    </profiles>
+<!--        </profile>-->
+<!--    </profiles>-->
 </project>
